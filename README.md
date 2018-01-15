@@ -1,4 +1,4 @@
-# "SECOND ДЕПОЗИТОРИЙ" ![GitHub Logo](/images/sun.png)
+# "SECOND ДЕПОЗИТОРИЙ" ![GitHub Logo](/images/image-sun.png)
 
 **Тестирование сервисов совместой работе на CodePen и GidHub.
 
