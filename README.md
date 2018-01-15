@@ -1,4 +1,4 @@
-# "SECOND ДЕПОЗИТОРИЙ" ![my_avatar](images/image-sun.png)
+# "SECOND ДЕПОЗИТОРИЙ" ![my_avatar](image/image-sun.png)
 
 **Тестирование сервисов совместой работе на CodePen и GidHub.
 
