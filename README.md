@@ -5,7 +5,7 @@
 ### Каталог/Описание файлов
 
 
-Справочная информация по разметке ### MarkDown:
+Справочная информация по разметке **MarkDown:
 ```markdown
 Syntax highlighted code block
 
