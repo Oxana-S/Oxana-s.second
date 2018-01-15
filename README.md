@@ -1,6 +1,6 @@
 # "SECOND ДЕПОЗИТОРИЙ" ![my_avatar](image/image-sun.png)
 
-**Тестирование сервисов совместой работе на CodePen и GidHub.
+**Тестирование сервисов совместой работе на CodePen и GidHub.**
 
 
 Syntax guide
